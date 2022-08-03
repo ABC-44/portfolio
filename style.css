@@ -1,0 +1,24 @@
+*
+{
+padding:0;
+margin:0;
+}
+body
+{
+overflow-x:hidden;
+}
+h1
+{
+font-family: 'Lobster Two', cursive;
+font-size:3em;
+}
+.carousel-inner img
+{
+width:100%;
+height:90vh;
+}
+.card-body img
+{
+min-width:60%;
+max-height:250px;
+}
